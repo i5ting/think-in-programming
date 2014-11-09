@@ -60,3 +60,16 @@ BASE思想主要强调基本的可用性，如果你需要High 可用性，也�
 
 不同点：NOSQL之类的Key-Value存储产品是和关系数据库头碰头的产品BOX，可以适合非Java如PHP RUBY等领域，是一种可以拿来就用的产品，而领域模型 + 分布式缓存 + 存储是一种复杂的架构解决方案，不是产品，但这种方式更灵活，更应该是架构师必须掌握的
 
+## 先写spec
+
+https://github.com/haml/haml-spec
+
+然后测试
+
+然后coding
+
+举个例子mcollina的msgpack5
+
+
+
+https://github.com/mcollina/msgpack5
